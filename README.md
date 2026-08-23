@@ -1,4 +1,8 @@
-# Python for Data Analysis – 3rd Edition
+#  Python for Data Analysis – 3rd Edition
+
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqxPBsXBS4PVAwpFGAKX90NfWfXvVNxu6xpEjO8kqLJQ&s" alt="Python for Data Analysis" width="300">
+</p>
 
 Study notes, practical exercises, and projects based on the book:
 
