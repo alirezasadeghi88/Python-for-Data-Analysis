@@ -49,4 +49,3 @@ The main goal is to learn how to work with data using Python and build a strong 
 08-modeling
 projects
 resources
-
