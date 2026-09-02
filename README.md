@@ -1,5 +1,7 @@
 # Python for Data Analysis – 3rd Edition
 
+**Maintained by: [Alireza Sadeghi](https://github.com/YOUR-USERNAME)**
+
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZJQirGi56DKex8uHnX3hJQjPDIO8AT7u0jG54dv43zFKwizQW2-0PXo&s=10" alt="Python for Data Analysis Book Cover" width="300">
 </p>
